@@ -60,7 +60,7 @@ module.exports = function(api) {
         }
       ],
       [
-        '@babel/plugin-proposal-private-property-in-object',
+        '@babel/plugin-proposal-private-property-in-object', // Esse é o plugin que causa o erro se estiver faltando
         {
           loose: true
         }
