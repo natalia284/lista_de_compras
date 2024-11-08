@@ -11,7 +11,7 @@ Antes de começar, verifique se você possui os seguintes softwares instalados:
 - **Node.js** e **Yarn** para gerenciamento de pacotes JavaScript
 - **Docker** e **Docker Compose** para gerenciar o container do PostgreSQL
 
-# :cd: Instalação e Clonagem
+# :cd: Clonagem
 
 ``` bash
 # Clone o repositório para seu ambiente local usando o comando abaixo:
