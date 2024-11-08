@@ -11,7 +11,7 @@ Antes de começar, verifique se você possui os seguintes softwares instalados:
 - **Node.js** e **Yarn** para gerenciamento de pacotes JavaScript
 - **Docker** e **Docker Compose** para gerenciar o container do PostgreSQL
 
-# :gear: Instalação
+# :cd: Instalação e Clonagem
 
 ``` bash
 # Clone o repositório para seu ambiente local usando o comando abaixo:
@@ -21,7 +21,7 @@ git clone https://github.com/natalia284/lista_de_compras.git
 ```
 # :game_die: Configuração do Banco de Dados
 
-O banco de dados utilizado no projeto foi o PostgreSQL. Com o docker instalado, crie o contâiner com o comando: 
+O banco de dados utilizado no projeto foi o PostgreSQL. Com o docker instalado, crie o contâiner com o comando a seguir. Caso deseje, altere as variáveis.  
 ``` bash
 # Modifique o comando colocando a senha que deseja para o contâiner do seu banco
 
@@ -38,7 +38,7 @@ docker ps
 ```
 No arquivo config/database.yml altere todos os campos `password: sua-senha` para que aconteça a conexão do banco com o projeto. 
 
-# :computer: Dependências
+# :gear: Dependências e Inicialização do Servidor
 
 Instale as dependências do projeto listadas no `Gemfile`:
 
