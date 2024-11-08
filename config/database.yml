@@ -3,7 +3,7 @@ default: &default
   encoding: unicode
   pool: 5
   username: natalia
-  password: "senha"
+  password: "1234"
   host: 127.0.0.1
   port: 5432
 
@@ -19,4 +19,4 @@ production:
   <<: *default
   database: banco
   username: <%= ENV['natalia'] %>
-  password: <%= ENV['senha'] %>
+  password: <%= ENV['1234'] %>
