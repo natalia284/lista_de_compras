@@ -1,6 +1,6 @@
 # :memo: Lista de Compras
 
-Este é um projeto básico de CRUD (Create, Read, Update, Delete) usando o framework Ruby on Rails, com o banco de dados PostgreSQL rodando em um container Docker. Siga os passos abaixo para configurar e rodar a aplicação em seu ambiente local.
+Este é um projeto básico de CRUD (Create, Read, Update, Delete) da criação de uma lista de compras usando o framework Ruby on Rails, com o banco de dados PostgreSQL rodando em um container Docker. Siga os passos abaixo para configurar e rodar a aplicação em seu ambiente local.
 
 # :round_pushpin: Pré-Requisitos
 
