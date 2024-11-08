@@ -7,7 +7,7 @@ Este é um projeto básico de CRUD (Create, Read, Update, Delete) da criação d
 Antes de começar, verifique se você possui os seguintes softwares instalados:
 
 - **Ruby** (versão utilizada: 3.0.2)
-- **Rails** (versão utlizada: 6.1.7.10)
+- **Rails** (versão utilizada: 6.1.7.10)
 - **Node.js** e **Yarn** para gerenciamento de pacotes JavaScript
 - **Docker** e **Docker Compose** para gerenciar o container do PostgreSQL
 
