@@ -74,4 +74,6 @@ Por fim, inicie o servidor Puma:
 rails server
 
 ```
+O servidor, por padrão, roda na porta `3000` do computador. 
+
 
